@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -     Giancarlo Figueroa
 -     Welcome to my GitHub profile!
-- 🔭 I’m currently working on data science and web development
+- <p>🔭 I’m currently working on data science and web development</p>
 - 🌱 I’m currently learning Front-End Development
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with data visualization research
