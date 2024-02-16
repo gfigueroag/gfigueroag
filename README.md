@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ###  Welcome to my GitHub profile!
-- ###  Giancarlo Figueroa
+- ###  I’m Giancarlo Figueroa
 - ### 🔭 I’m currently working on data science and web development
 - ###  🌱 I’m currently learning Front-End Development
 - ### 👯 I’m looking to collaborate on data science projects
